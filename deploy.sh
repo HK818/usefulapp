@@ -14,4 +14,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push 
+git push -f
